@@ -1,0 +1,5 @@
+# Created at 2025-07-07T17:45:19.385
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Softwares\Github\WISIWIGAPI\wisiwigapi\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -1,0 +1,6 @@
+com\example\wisiwigapi\wisiwigapi\controllers\TemplateController.class
+com\example\wisiwigapi\wisiwigapi\controllers\TestController.class
+com\example\wisiwigapi\wisiwigapi\WisiwigapiApplication.class
+com\example\wisiwigapi\wisiwigapi\SampleController.class
+com\example\wisiwigapi\wisiwigapi\service\TemplateMergeService.class
+com\example\wisiwigapi\wisiwigapi\service\TestService.class
